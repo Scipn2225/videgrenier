@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<!-- Banner Advertisements -->
+	<Ad>
+		<ImageUrl>~/images/kfc.png</ImageUrl>
+		<Width>260</Width>
+		<Height>260</Height>
+		<NavigateUrl>https://www.kfc.mu/en</NavigateUrl>
+		<AlternateText>Banner Advertisement 1</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/hi3.jpg</ImageUrl>
+		<Width>260</Width>
+		<Height>260</Height>
+		<NavigateUrl>https://honkaiimpact3.hoyoverse.com/global/en-us/fab</NavigateUrl>
+		<AlternateText>Banner Advertisement 2</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/bk.png</ImageUrl>
+		<Width>260</Width>
+		<Height>260</Height>
+		<NavigateUrl>https://www.bk.com/</NavigateUrl>
+		<AlternateText>Banner Advertisement 3</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/mcd.png</ImageUrl>
+		<Width>260</Width>
+		<Height>260</Height>
+		<NavigateUrl>https://www.mcdonalds.mu/</NavigateUrl>
+		<AlternateText>Banner Advertisement 4</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/gi.png</ImageUrl>
+		<Width>260</Width>
+		<Height>260</Height>
+		<NavigateUrl>https://genshin.hoyoverse.com/en/</NavigateUrl>
+		<AlternateText>Banner Advertisement 5</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+</Advertisements>
